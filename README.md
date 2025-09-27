@@ -24,10 +24,3 @@ The analysis includes:
 
 The project specifically focuses on  regression, aiming to model the relationship between multiple independent variables (player attributes) and the dependent variable (player value).
 
-## Getting Started
-
-### Prerequisites
-
-*   Python 3.x
-*   Jupyter Notebook or Google Colab
-*   Required Python libraries (install using pip):
